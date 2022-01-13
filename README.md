@@ -1,2 +1,2 @@
 # testsample
-test repository
+test repository for git command demonstration
